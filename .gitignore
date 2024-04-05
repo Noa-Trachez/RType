@@ -1,0 +1,43 @@
+# Prerequisites
+*.d
+.idea
+.vscode
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+vgcore.*
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+build
+cmake-build-debug
+cmake-build-release
+r-type_client
+r-type_server
+
+.DS_Store
